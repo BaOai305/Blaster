@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.vs/
+
+Binaries/
+
+Build/
+
+Content/TMEntertainmentPack1/
+
+Content/TMBackyardPack1/
+
+Content/ThirdPerson/
+
+Content/Stylized_Egypt/
+
+Content/ParagonDekker/
+
+Content/MilitaryWeapSilver/
+
+Content/LevelPrototyping/
+
+Content/EchoContent/
+
+Content/__ExternalObjects__/
+
+Content/__ExternalActors__/
+
+Intermediate/
+
+Saved/
